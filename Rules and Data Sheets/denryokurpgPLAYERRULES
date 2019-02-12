@@ -100,3 +100,21 @@ You only get one action per turn, unless you combo into an action, in which case
 If you break the combo, however, they must all use their own individual Actions.
 
 Step 4 - Assign Modifiers
+
+Assigning modifiers is a very simple step - just assign any damage or effect modifiers that your items or weapons might have, or that were just activated in Assign actions.
+If you have any special item effects or one time items, this is the time to active those as well.
+
+Step 5 - Damage
+
+Damage is the last step of your units combat phase. This is when you'll roll all your dice to calculate damage, add everything up, and
+subtract HP from applicable opponents (or yourself!).
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Once your combat phase is over, it's time for your enemies' combat phase. The only interaction you'll be able to perform during their
+combat phase is combo breaks, so plan accordingly.
+
+You're now ready to create a basic character, and you now have enough knowledge to read a basic character sheet. For more information on magic and detailed lists of class effects, weapons,
+and items, go find the applicable data sheets in the GITHUB repository.
+
+For DM Materials, such as PL scaling, how to calculate and add base stat numbers, and possible WK bonuses, check in the DM folder of the GITHUB repository.
