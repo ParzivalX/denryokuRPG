@@ -1,0 +1,99 @@
+Character:
+Each character has three main stats:
+Strength, Agility, and Knowledge.
+There are a few general rules about these stats:
+-	Core stats have no max cap on how high they can go
+-	Core stats can go down over time if you do not perform the actions necessary to practice them or use they regularly
+-	Each of these stats acts as a total of points in a pool, on top of base points. When the power level of your character rises,
+  the base increases and x points are added to the pool.
+
+Now for descriptions of the three main stats:
+
+Strength allows characters to make any action such as throwing out an attack, climbing a wall,
+or carrying heavy objects. How well or to what degree they are able to make these actions depends on
+how high these stats are. Dice rolls from objects can give you bonuses to this score.
+
+Agility determines your movement value, as well as priority over other’s attacks and blocks.
+ Attacks and Blocks, which are two key components of this system, always take this value into account.
+ This value also affects things like stealing, pickpocketing, and dodging surprise attacks (which is not the same thing as dodging in combat).
+
+Knowledge is a VERY important stat. For any action outside of combat, Knowledge will most likely be more important than strength or agility.
+Anyone who uses spellbooks (which are necessary to use magic) must have an equivalent knowledge stat to be able to use the spellbook.
+Knowledge is also required to read languages, solve puzzles, or disguise yourself.
+Knowledge also has a sub-stat called WK (Or World Knowledge). Your WK will increase over time, and for the greater WK value you have,
+you’ll gradually unlock more skills. There is a list of WK skills, any of which may be given out at any point during the game upon acquiring a WK point.
+However, the WK skill you receive will be decided by your DM. WK points also do not deteriorate like core skill points do, and the skills you learn are permanent.
+
+Some other things you might want to know about before you jump into making a character are the following:
+
+Hit Points are what allows your character to live. Taking damage in any form lowers them, and if you run out, you die. Make sure to keep track of them!
+
+Background is the backstory of your character. Not essential, but makes things interesting.
+
+Race is self-explanatory and does not affect the game.
+
+Classes, however, are very important, and very flexible. They will decide the specialized skills you have,
+and give you extra abilities over time. When your power level goes up, you might gain new skills. Class skills cannot be lost if your power level goes down.
+
+Power Level, or PL, is based on how powerful the weapons you have are. The system, as you gain more powerful weapons,
+will give you more power so you can use those weapons. Your PL also is affected by armor, gear, and magic items, as well as WK
+(you get a PL point for every WK point you have).
+
+All weapons you have will have a damage tab that tells you how much damage the weapon is capable of dealing provided an attack goes through your opponents’ defense.
+Now we’re going to go into a more detailed breakdown of weapons:
+Here’s an example longsword.
+Name	                Damage	          Durability	   PL	 Other Effects
+Basic Longsword	    1d4, cut type	     10 uses/combat	 5	     N/A
+
+We can tell a couple of things from this:
+The sword is a basic longsword.
+The sword, when attacking does 1 roll of a 4 sided die worth of damage (as indicated by the 1d4).
+The sword outside and inside of combat can attack to cut through objects with attacks (straw, weak wood, etc.)
+It can be used 10 times per combat without breaking.
+It raises your PL by 5 points.
+
+Items work in a similar way, except with only name, durability, PL, and effects.
+So now that you know about what stats you’ll have, and how items and weapons work, we can go into combat.
+
+Combat Has 5 steps which go in a specific order as follows:
+1.	Priority
+2.	Grouping
+3.	Assign Actions
+4.	Assign Modifiers
+5.	Damage
+Steps 1,2, and 5 work in a fairly straightforward manner whereas 3 and 4 actually loop for every character in a unit (more on that in a second)
+before passing on to step 5. You will also add in CC (combo counts) and Combo Leads during step 1, which is why it’s the most important,
+so let’s jump in to talking about it.
+
+Step 1 – Priority
+
+Base Priority (or BP) is fairly straightforward to calculate, with it just being your agility stat plus a d20 dice roll.
+If the combined number that you have as your agility stat plus your d20 is greater than your enemy’s, then you get to move first.
+You can also use your priority here to get combo leads.
+
+So what exactly are combo leads, anyways?
+
+Combo leads are stats on a weapon that let your team do a technique called priority skipping. Priority skipping means that,
+no matter what the other people in your unit roll, you can use the lead to let them get an attack in as the same action as you.
+It is possible, if everyone in your unit has combo lead weapons, to let your whole team attack in one action. However, if your opponent has a weapon with combo break,
+then they may roll a d10. If the d10 lands within 5 or higher, then your combo is broken and you can’t lead into another one.
+If this happens normal priority order resumes.
+
+Certain weapons also have an ability called Priority Skip. This is a fairly simple ability that you can add on during determining priority,
+and it gives that many + x agil. Stat during the roll. This makes priority skip very useful for close calls. Priority skip also heightens the roll to break a combo by
+one so the range falls from 6-10.
+
+Step 2 – Grouping
+
+As discussed earlier, combo leads are an integral part of the system and actually have their own step called the “grouping” step.
+In this step, groups of combo leads must be preassigned to happen in a designated order. You don’t have to decide what character will exactly do, as long as each combo
+piece has a combo lead (or groups where someone with combo lead 2 gives 2 non-combo lead characters priority). Combo Breaks are not assigned in this step but are instead
+assigned in Assign Actions.
+
+Step 3 – Assign Actions
+Assigning actions is also pretty straightforward. You simply decide out of one of three choices:
+•	Use an offensive option
+•	Use a defensive option
+•	Use an ability (whether of an item or weapon)
+You only get one action per turn, unless you combo into an option, in which case all combined actions count as one action.
+If you break the combo, however, they must all use their own individual Actions.
