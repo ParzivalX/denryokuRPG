@@ -50,3 +50,149 @@ Medic
 Shield Technician
 Turret Technician
 Elementalist
+
+------
+Base Classes:
+
+WARRIOR:
+
+Required PL - 0
+Automatic Background WK gained:
+Basic Sword Attacks
+Shield skills
+Weapon care and maintenance
+
+Base Specials:
+None
+
+PL Level stat chart:
+PL    Stat Pool add-on         specials gained  WK Points (from list)
+5     1/each, 1 assignable      None              +1
+
+10    1/each, 1 assignable      None              +1
+
+15    1/each, 1 assignable      Flurry Dash       +1
+
+20    1/each, 1 assignable      None              +1
+
+25    1/each, 1 assignable      None              +1
+
+30    1/each, 1 assignable      Movement Shift    +1
+
+35    1/each, 1 assignable      None              +1
+
+40    2/each, 1 assignable      None              +2
+
+50    2/each, 2 assignable      Perfect Counter   +2
+
+60    2/each, 3 assignable      None              +2
+
+70    2/each, 3 assignable      None              +2
+
+
+
+ROGUE:
+
+Required PL - 0
+Automatic Background WK gained:
+Basic combat strategy
+Stealth Movement
+Bow and ranged weapon maintenance
+
+Base Specials:
+None
+
+PL Level stat chart:
+PL    Stat Pool add-on         specials gained  WK Points (from list)
+5     1/each, 1 assignable      None              +1
+
+10    1/each, 1 assignable      None              +1
+
+15    1/each, 1 assignable      Seek              +1
+
+20    1/each, 1 assignable      None              +1
+
+25    1/each, 1 assignable      None              +1
+
+30    1/each, 1 assignable      Close the Gap     +1
+
+35    1/each, 1 assignable      None              +1
+
+40    2/each, 1 assignable      None              +2
+
+50    2/each, 2 assignable      Disable           +2
+
+60    2/each, 3 assignable      None              +2
+
+70    2/each, 3 assignable      None              +2
+
+
+
+MAGE:
+
+Required PL - 0
+Automatic Background WK gained:
+Spellbook Construction
+Ether Formulas
+Advanced Mathmatics and Triangulation
+
+Base Specials:
+None
+
+PL Level stat chart:
+PL    Stat Pool add-on         specials gained  WK Points (from list)
+5     1/each, 1 assignable      None              +1
+
+10    1/each, 1 assignable      None              +1
+
+15    1/each, 1 assignable      Empower           +1
+
+20    1/each, 1 assignable      None              +1
+
+25    1/each, 1 assignable      None              +1
+
+30    1/each, 1 assignable      Dualshot (clone)  +1
+
+35    1/each, 1 assignable      None              +1
+
+40    2/each, 1 assignable      None              +2
+
+50    2/each, 2 assignable      Rapidlaunch (x5)  +2
+
+60    2/each, 3 assignable      None              +2
+
+70    2/each, 3 assignable      None              +2
+
+
+PRIEST:
+
+Required PL - 0
+Automatic Background WK gained:
+
+
+Base Specials:
+None
+
+PL Level stat chart:
+PL    Stat Pool add-on         specials gained  WK Points (from list)
+5     1/each, 1 assignable      None              +1
+
+10    1/each, 1 assignable      None              +1
+
+15    1/each, 1 assignable      Flurry Dash       +1
+
+20    1/each, 1 assignable      None              +1
+
+25    1/each, 1 assignable      None              +1
+
+30    1/each, 1 assignable      Movement Shift    +1
+
+35    1/each, 1 assignable      None              +1
+
+40    2/each, 1 assignable      None              +2
+
+50    2/each, 2 assignable      Perfect Counter   +2
+
+60    2/each, 3 assignable      None              +2
+
+70    2/each, 3 assignable      None              +2
