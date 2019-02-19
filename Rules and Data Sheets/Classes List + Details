@@ -168,31 +168,46 @@ PRIEST:
 
 Required PL - 0
 Automatic Background WK gained:
-
+Religious Knowledge
+Peacemaking and De-escalation skills
+Summoning
 
 Base Specials:
-None
+Healing Chant
 
 PL Level stat chart:
 PL    Stat Pool add-on         specials gained  WK Points (from list)
 5     1/each, 1 assignable      None              +1
 
-10    1/each, 1 assignable      None              +1
+10    1/each, 1 assignable      Heal Prayer       +1
 
-15    1/each, 1 assignable      Flurry Dash       +1
+15    1/each, 1 assignable      Contain           +1
 
 20    1/each, 1 assignable      None              +1
 
 25    1/each, 1 assignable      None              +1
 
-30    1/each, 1 assignable      Movement Shift    +1
+30    1/each, 1 assignable      Motivate Ranks    +1
 
 35    1/each, 1 assignable      None              +1
 
 40    2/each, 1 assignable      None              +2
 
-50    2/each, 2 assignable      Perfect Counter   +2
+50    2/each, 2 assignable      Rise Up           +2
 
 60    2/each, 3 assignable      None              +2
 
 70    2/each, 3 assignable      None              +2
+
+Subclasses:
+
+Arcanic Fighter: Lighter than a base warrior, and uses close range spells to increase his power with his sword. uses
+a cross between strength and agility as his/her main stat.
+
+Spearman: Skilled in using a spear. Can't use other weapons besides polearms. Uses agility and strength as his/her main stat.
+
+Commander: 
+Tank
+Hoplite
+Staffman
+Monk
